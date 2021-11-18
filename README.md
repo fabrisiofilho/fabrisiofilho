@@ -11,7 +11,7 @@
 </div>
 
  <div>
-    <a href="https://br.linkedin.com/in/fabrisio-pereira-bez-fontana-filho-259965205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/fabrisio-bez-fontana-filho-259965205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ### Tools I work with
 </div>
