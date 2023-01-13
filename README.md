@@ -1,6 +1,6 @@
 ## Este é meu github!
 
-- 🌱 Currently learning Flutter!
+- 🌱 Currently learning Node.js!
 - :brazil: I'm from Tubarão, Brazil
 - 📫 Email: fabrisiopbf@gmail.com
 
