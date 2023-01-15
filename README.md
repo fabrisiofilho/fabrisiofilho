@@ -1,4 +1,4 @@
-## Este é meu github!
+## This is my github
 
 - 🌱 Currently learning Node.js!
 - :brazil: I'm from Tubarão, Brazil
