@@ -5,6 +5,7 @@
 - 🌱 Currently learning Node.js!
 - :brazil: I'm from Tubarão, Brazil
 - 📫 Email: fabrisiopbf@gmail.com
+- 👨🏽‍🎓 Graduated in Analysis and Systems Development
 
  <div>
   <a href="https://br.linkedin.com/in/fabrisio-pereira-bez-fontana-filho-259965205/>
